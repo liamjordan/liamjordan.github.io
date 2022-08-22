@@ -1,0 +1,29 @@
+body{
+  font-family: system-ui;
+  background: #5865F2;
+  color: white;
+  text-align: center;
+}
+#register{
+  font-family: system-ui;
+  background: #5865F2;
+  color: white;
+  text-align:center;
+}
+
+h1{
+  font-family: system-ui;
+  background: #5865F2;
+  color: white;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
+#Chat ol{display:block;}
+.salmon {
+  color: lightsalmon;
+  background-color: darksalmon;
+  border: 1px solid salmon;
+}
